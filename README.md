@@ -15,20 +15,20 @@ Our project is a role-playing simulation game of a week at school (5 days) of a 
 There are a few statistics in this game: average, health, and socialStanding (which also includes an analysis).  These are contained in the Student class (but can be accessed from anywhere).
 
 Daily schedule:
-      1) Waking Up - a GUI game in which there is an array of buttons, each saying 'Wake Up!'  Every 0.9 seconds the program chooses a random place on the 2D array of buttons to change the text to 'Here!'  The user must click on a 'Here' button 20 times before 25 seconds are up to win.  If the user wins, then the day continues on as normal.  If he loses, then he is late to school and misses his first period class.
+1) Waking Up - a GUI game in which there is an array of buttons, each saying 'Wake Up!'  Every 0.9 seconds the program chooses a random place on the 2D array of buttons to change the text to 'Here!'  The user must click on a 'Here' button 20 times before 25 seconds are up to win.  If the user wins, then the day continues on as normal.  If he loses, then he is late to school and misses his first period class.
 
-      2) Sort Game - a GUI game in which there is a randomly generated array of integers.  It is displayed as a JLabel, and each number is on a button.  The program sorts the list of integers and prompts the user to do the same, manually, checking to see if the order in which the user clicks the buttons is correct.  If it is correct, then all the statistics increase.  If not, then average decreases.
+2) Sort Game - a GUI game in which there is a randomly generated array of integers.  It is displayed as a JLabel, and each number is on a button.  The program sorts the list of integers and prompts the user to do the same, manually, checking to see if the order in which the user clicks the buttons is correct.  If it is correct, then all the statistics increase.  If not, then average decreases.
 
-      3) First Period - subject1 class.  There is a probability of having a test in the subject1 class.
-      a) If there is a test, the user can try to cheat or take the test, which is another GUI mini-game with 5 questions.
-      b) If there isn't, the user can choose to cut class to take the class
+3) First Period - subject1 class.  There is a probability of having a test in the subject1 class.
+a) If there is a test, the user can try to cheat or take the test, which is another GUI mini-game with 5 questions.
+b) If there isn't, the user can choose to cut class to take the class
 
-      4) Lunch - the user is presented with some simple textbased options, some of which lead to a GUI game.
+4) Lunch - the user is presented with some simple textbased options, some of which lead to a GUI game.
 
-      5) Second Period - subject2 class.  Same as first period.
+5) Second Period - subject2 class.  Same as first period.
 
-      6-8) Afterschool - the user is presented with some simple textbased options, some of which lead to GUI games
-      a) Memory game: the user is given a phone number of randomly generated 10 digits to remember and later reinput, in another GUI window.
+6-8) Afterschool - the user is presented with some simple textbased options, some of which lead to GUI games
+a) Memory game: the user is given a phone number of randomly generated 10 digits to remember and later reinput, in another GUI window.
 
 
 
