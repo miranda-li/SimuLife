@@ -5,6 +5,10 @@ High school simulation game run in command line.
 
 SimuLife Game
 
+TO RUN: In command line, run SimuLife.java
+
+
+
 Names: Miranda Li, Dina Levy-Lambert
 Period 10
 
